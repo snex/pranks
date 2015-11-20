@@ -12,6 +12,7 @@ if [ \$? -eq 0 ]
 then
   exit 0
 else
+  echo \$(cat "\$1")
   echo "\$ALEX"
   exit 1
 fi
