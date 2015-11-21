@@ -5,3 +5,4 @@ most of these can be accessed quickly at http://xens.org:8080/(filename)
 ##### Requires
 * OSX
 * homebrew
+* git
